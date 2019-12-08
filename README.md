@@ -2,15 +2,15 @@
 
 ### Technologies Used
 
-*FrameWork : Spring Boot, Maven
+*FrameWork : Spring Boot, Maven*
 
-*Programming Language : Java, Javascript
+*Programming Language : Java, Javascript*
 
-*Database: MySQL
+*Database: MySQL*
 
-*Webserver: ApacheTOMCAT
+*Webserver: ApacheTOMCAT*
 
-*Front-end tech: HTML5,CSS3,jQuery,Bootstrap
+*Front-end tech: HTML5,CSS3,jQuery,Bootstrap*
 
 
 This is a Home Automation Network
