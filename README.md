@@ -1,8 +1,21 @@
 # SmartHome
 
+### Technologies Used
+
+*FrameWork : Spring Boot, Maven
+
+*Programming Language : Java, Javascript
+
+*Database: MySQL
+
+*Webserver: ApacheTOMCAT
+
+*Front-end tech: HTML5,CSS3,jQuery,Bootstrap
+
+
 This is a Home Automation Network 
 
-Light and Temperature sensors are installed and controlled by this website.
+Sensors like Camera, Wifi, Water, Light, Temperature are installed and controlled by this website.
 
 ## USER Dashboard
 
