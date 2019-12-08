@@ -13,7 +13,7 @@
 *Front-end tech: HTML5,CSS3,jQuery,Bootstrap
 
 
-This is a Home Automation Network 
+This is a Home Automation Network
 
 Sensors like Camera, Wifi, Water, Light, Temperature are installed and controlled by this website.
 
